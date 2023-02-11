@@ -167,7 +167,7 @@ body.lock {
   overflow: auto;
   transition: 0.6s all ease 0s;
   padding: 9.375rem 0;
-  background-color: rgba(255, 255, 255, 0.7882352941);
+  background-color: rgba(255, 255, 255, 0.9607843137);
 }
 .header-block__menu.open-menu {
   top: 0;
